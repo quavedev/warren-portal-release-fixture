@@ -1,0 +1,4 @@
+type: external
+source: github-deployment
+environment: Preview
+timeout: 30m
