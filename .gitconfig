@@ -1,0 +1,5 @@
+[safe]
+	directory = /workspace/repository
+[user]
+	email = warren@example.com
+	name = Warren
