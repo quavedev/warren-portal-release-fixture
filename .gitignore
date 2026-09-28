@@ -1,0 +1,3 @@
+# Ephemeral harness home configuration is never application source.
+.gitconfig
+.gitconfig.*
